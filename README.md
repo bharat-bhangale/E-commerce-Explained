@@ -22,3 +22,6 @@ Curious to explore behind the scenes? Dive into our codebase and join our journe
 Thank you for joining us on this fashionable voyage! Stay tuned for exciting updates and new arrivals at Clothe.co. Happy shopping! 🛒💃
 
 #ReactJS #NodeJS #ExpressJS #MongoDB #Vite #JWT #ECommerce #Fashion #Tech #JavaScript
+
+https://github.com/bharat-bhangale/E-commerce-Explained/assets/167877538/6c98ca4e-8c48-4f6e-bf19-71f47c8331e7
+
