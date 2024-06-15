@@ -1,3 +1,5 @@
+https://github.com/bharat-bhangale/E-commerce-Explained/assets/167877538/6c98ca4e-8c48-4f6e-bf19-71f47c8331e7
+
 🛍 Introducing Clothe.co: Your Fashion Haven 🌟
 
 Excited to unveil Clothe.co, where style meets convenience! Harnessing cutting-edge technologies, Clothe.co offers an unparalleled shopping experience tailored to your fashion needs.
@@ -23,5 +25,4 @@ Thank you for joining us on this fashionable voyage! Stay tuned for exciting upd
 
 #ReactJS #NodeJS #ExpressJS #MongoDB #Vite #JWT #ECommerce #Fashion #Tech #JavaScript
 
-https://github.com/bharat-bhangale/E-commerce-Explained/assets/167877538/6c98ca4e-8c48-4f6e-bf19-71f47c8331e7
 
